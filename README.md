@@ -34,7 +34,7 @@ Operator    ::= "=" | "+" | "-" | "*" | "/" | ">" | "<" | "!"
 
 ## Exemplo de Código (teste.txt)
 
-``
+```
 x = 10
 y = 20
 if (x > y) {
@@ -45,9 +45,9 @@ if (x > y) {
 while (x < 100) {
     x = x + 1
 }
-``
+```
 
-## regras
+## Regras
 - Cada instrução deve estar em uma linha separada ou delimitada por chaves/blocos.
 - Espaços em branco são ignorados.
 - Variáveis são criadas na primeira atribuição.
