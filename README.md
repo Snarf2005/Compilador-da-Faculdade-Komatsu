@@ -47,7 +47,7 @@ while (x < 100) {
 }
 ```
 
-## Regras
+# Regras
 - Cada instrução deve estar em uma linha separada ou delimitada por chaves/blocos.
 - Espaços em branco são ignorados.
 - Variáveis são criadas na primeira atribuição.
