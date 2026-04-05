@@ -10,7 +10,7 @@ Professor: Edson Komatsu
 
 Integrantes: Chefe/Emmanuel, Técnico/Sandro, Analisador/Leandro
 
-Cidade: Cuiabá-Mato Grosso
+Cidade: Cuiabá Mato-Grosso
 
 # Compilador Simples em Go
 
