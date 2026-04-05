@@ -1,7 +1,9 @@
 # Projeto_Compilador_Faculdade
 
-UNIC – Universidade de Cuiabá Relatório Técnico: Especificação da Gramática do Analisador Léxico
+UNIC – Universidade de Cuiabá
+
 Relatório Técnico: Especificação da Gramática do Analisador Léxico
+
 Data: 23/03/2026
 Professor: Edson Komatsu
 Integrantes: Chefe-Emmanuel, Sandro, Leandro
