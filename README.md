@@ -18,14 +18,14 @@ Cidade: Cuiabá Mato-Grosso
 
 ```
 Programa    ::= { Instrução }
-Instrucao   ::= Atribuição | Print | If | While
-Atribuicao  ::= Ident "=" Expressão
-Expressao   ::= Termo [ Operator Termo ]
+Instrução   ::= Atribuição | Print | If | While
+Atribuição  ::= Ident "=" Expressão
+Expressão   ::= Termo [ Operator Termo ]
 Termo       ::= Number | Ident
 Print       ::= "print" "(" Ident ")"
-If          ::= "if" "(" Condicao ")" "{" { Instrução } "}" [ "else" "{" { Instrução } "}" ]
+If          ::= "if" "(" Condição ")" "{" { Instrução } "}" [ "else" "{" { Instrução } "}" ]
 While       ::= "while" "(" Condição ")" "{" { Instrução } "}"
-Condicao    ::= Termo Operator Termo
+Condição    ::= Termo Operator Termo
 Ident       ::= [a-zA-Z_][a-zA-Z0-9_]*
 Number      ::= [0-9]+
 Operator    ::= "=" | "+" | "-" | "*" | "/" | ">" | "<" | "!"
