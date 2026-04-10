@@ -8,7 +8,7 @@ Data: 23/03/2026
 
 Professor: Edson Komatsu
 
-Integrantes: Chefe/Emmanuel, Técnico/Sandro, Analisador/Leandro
+Integrantes: Emmanuel, Sandro, Leandro
 
 Cidade: Cuiabá Mato-Grosso
 
